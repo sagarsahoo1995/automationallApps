@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;framework.ArrayList&apos; to &apos;ArrayList_01&apos;&#x0D;&#x0A;- Original project: &apos;javaProject&apos;&#x0D;&#x0A;- Original element: &apos;framework.ArrayList&apos;&#x0D;&#x0A;- Renamed element: &apos;framework.ArrayList_01&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ArrayList&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;framework{ArrayList.java[ArrayList" matchStrategy="1" name="ArrayList_01" qualified="false" references="true" similarDeclarations="false" stamp="1690039006752" textual="false" version="1.0"/>
+</session>
